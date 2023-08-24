@@ -23,7 +23,6 @@
           echo "<img src=\"./" . $pngpath . "\" />";
         }
       }
-      
     ?> 
   </body>
 </html>
