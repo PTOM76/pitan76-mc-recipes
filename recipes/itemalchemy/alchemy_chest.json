@@ -1,0 +1,12 @@
+{
+    "1": "itemalchemy:low_covalence_dust",
+    "2": "itemalchemy:middle_covalence_dust",
+    "3": "itemalchemy:high_covalence_dust",
+    "4": "stone",
+    "5": "diamond",
+    "6": "stone",
+    "7": "iron_ingot",
+    "8": "chest",
+    "9": "iron_ingot",
+    "result": "itemalchemy:alchemy_chest"
+}
