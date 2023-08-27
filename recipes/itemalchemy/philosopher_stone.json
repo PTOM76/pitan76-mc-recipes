@@ -1,12 +1,12 @@
 {
     "1": "redstone",
-    "2": "glowstone",
+    "2": "glowstone_dust",
     "3": "redstone",
-    "4": "glowstone",
+    "4": "glowstone_dust",
     "5": "diamond",
-    "6": "glowstone",
+    "6": "glowstone_dust",
     "7": "redstone",
-    "8": "glowstone",
+    "8": "glowstone_dust",
     "9": "redstone",
     "result": "itemalchemy:philosopher_stone"
 }

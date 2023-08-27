@@ -2,11 +2,11 @@
     "1": "netherite_ingot",
     "2": "end_crystal",
     "3": "netherite_ingot",
-    "4": "medium_ender_cane",
-    "5": "ender_cane",
-    "6": "advanced_ender_cane",
+    "4": "endercane:medium_ender_cane",
+    "5": "endercane:ender_cane",
+    "6": "endercane:advanced_ender_cane",
     "7": "netherite_ingot",
     "8": "end_crystal",
     "9": "netherite_ingot",
-    "result": "infinity_ender_cane"
+    "result": "endercane:infinity_ender_cane"
 }

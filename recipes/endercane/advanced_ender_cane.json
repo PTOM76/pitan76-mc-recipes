@@ -3,10 +3,10 @@
     "2": "redstone",
     "3": "air",
     "4": "blaze_rod",
-    "5": "medium_ender_cane",
+    "5": "endercane:medium_ender_cane",
     "6": "redstone",
     "7": "blaze_rod",
     "8": "blaze_rod",
     "9": "lapis_lazuli",
-    "result": "advanced_ender_cane"
+    "result": "endercane:advanced_ender_cane"
 }
